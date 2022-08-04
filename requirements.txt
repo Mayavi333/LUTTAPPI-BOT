@@ -50,3 +50,4 @@ ffmpeg
 Pillow
 ujson
 speedtest
+Pyrogram==2.0.35
